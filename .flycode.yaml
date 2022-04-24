@@ -4,7 +4,7 @@ environments:
     branch: main
     mode: pull-request
 apps:
-  - name: empty
+  - name: The Empire's App
     path: ""
     text-resources:
       - path: "*.tsx"
