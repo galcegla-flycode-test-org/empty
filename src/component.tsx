@@ -3,7 +3,7 @@ import React, { FC } from "react";
 const Component: FC = () => {
   return (
     <div>
-      Hello, world  
+      Hello, world!!!  
     </div>
   )
 };
