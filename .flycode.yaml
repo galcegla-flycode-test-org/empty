@@ -4,7 +4,7 @@ environments:
     branch: main
     mode: pull-request
 apps:
-  - name: React
+  - name: empty
     path: ""
     text-resources:
       - path: "*.tsx"
