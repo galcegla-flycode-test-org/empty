@@ -9,5 +9,5 @@ apps:
     text-resources:
       - path: src/langs/*.json
         format: flat-key-value
-      - path: *.tsx
+       - path: "*.tsx"
         format: react-hardcoded
