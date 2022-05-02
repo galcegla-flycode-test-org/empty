@@ -7,5 +7,5 @@ apps:
   - name: empty
     path: ""
     text-resources:
-      - path: "*.tsx"
-        format: react-hardcoded
+      - path: src/langs/*.json
+        format: flat-key-value
