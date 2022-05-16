@@ -5,9 +5,7 @@ environments:
     mode: pull-request
 apps:
   - name: empty
-    path: ""
+    path: src/
     text-resources:
-      - path: src/langs/*.json
-        format: flat-key-value
       - path: "*.tsx"
         format: react-hardcoded
